@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "733593320967",
+    "project_id": "firbaseauthatication",
+    "storage_bucket": "firbaseauthatication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733593320967:android:9a777cffc8136959fcf4a2",
+        "android_client_info": {
+          "package_name": "com.example.firbase_aut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-bJQ3YHdyO2BGigyursKxSZLytd_yR3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733593320967:android:238ec440380a14cdfcf4a2",
+        "android_client_info": {
+          "package_name": "com.example.firbase_authatication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-bJQ3YHdyO2BGigyursKxSZLytd_yR3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
